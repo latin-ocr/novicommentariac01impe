@@ -1,0 +1,41 @@
+VARIAE DEMONSTRAT G'EOMETR. ’ 57
+
+Scholion.
+
+ξ. 12. Vltima haec formula pro inuenienda area
+cuiusque trianguli est maxime nota , ac plerumque in ele-
+mentis geometriae tr'adi solet ,. etiamsi eius demonstratio
+difficulter per elementa confici poffit. Similis quoque fe*
+re regula habetur pro area cuiusque quadrilateri circulo
+inscripti inuenienda , quippe quae pari modo fatis concin-
+ne per sola latera exprimi potest. Eius quidem demon-
+stratio ‚ fi analysss in subsidium vocetur ‚ non est difficilis ‚
+{ed qui eam more apud· Geometras recepto adornare fimt
+conati , maximas experti sunt difficultates , Cl: quondam
+Naudaeus non parum in hoc genere laborauit ‚ >et gemi-
+nam huius quoque regulae demonstrationem protulit in
+Misc. Berol. verum Vtraque non solum maxime est in-
+tricata et multitudine linearum in figura dustarum obru-
+ta , vt fine summa attentione ne capi quidem poffit ,
+sed etiam vbique nimis luculenta vestigia analytici cal-
+culi *offendunt ‚ Mihi quidem sequentibus propositionibus
+
+’ praemittendis opus est.
+
+Theorema„
+
+§- 13. Si quadrilateri circulo inseripti ABC D
+duo latera fibi opposita AB, DC ad occursum vsqne in
+E producantur erit area quadri lateri ABCD ad aream
+
+trianguli BCE vt AD -BC ad BC&
+Demonstratio
+
+Quia tam ,angulus BAD quam BCE cum angulo
+BCD constituit duos meros, erit BAD:BCE‚s1mffi
+terque ADC1CBE, vnde triangula AED et CEB
+
+Tem 1 H eninr
+
+ffig, 6,
+

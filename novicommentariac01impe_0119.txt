@@ -1,0 +1,39 @@
+CIRCA DIVISORES NVMERORVM 23
+Coroll. 1.
+
+.Si ergo ponatur a:1 ‚ et [2:1, erit 2P-2
+semper 2diuifibilis per p,s1 quidem fuerit p numerus pri-
+mus. Cum igitur fit 21³- 2: 2(2Ρ-ι —-1): alterum ho
+rum fadffirum per p diuifibilem efl‘e oportet. At nifi s1t
+
+ω ΡΞ2, prior fa<stor 2 per p non est diuifibilis: vnde se-
+
+quitur formam 21M -1 perpetuo per 1) effe diuifibilem,
+fi p fuerit numerus primus prleter binarium.
+
+Coroll.
+
+3. Ponendis ergo pro p succeffiue numeris primis, erit
+2--1 diuifibile per 3; 24--1 per ς· 26 —1 per 73
+0—1 per 11 etc.q1⁷10d in minoribus numeris per se
+fit perspicuum, in maximis autem aeque erit certum.
+Sic cum 641 fit numerus primus, iste numerus 2646 -1
+neceffario per 641 erit diujfibilis. Seu fi potestas 24
+per 641 diuidatnr ‚ post diuisionem supererit refiduum
+z 1.
+Theorema 2.
+
+4. Si Vtraque harum formularum (ΖΡ-α et bP-b
+fuerit diuifibilis per numerum primum R , tum quoque
+ista formula (a—4-b)P——a— b diuifibilis erit per eundem
+numerum primump.
+
+Demonstro-tio,
+
+Cum per ξ. 1. (a-4-b)P—aP—-b1’ fit dinifibssis
+per numerum ρ , fi fuerit primus, atque hic formulae
+czP-cz et bP-b per 72 diuifibiles affumantur, erit quo-
+que summa istarum trium fonnularum nempe (ank—[JV
+—a—l7 per Ε , fi fi1erit numerus primus diuifibilis Q. E. D.
+, Coroll.
+

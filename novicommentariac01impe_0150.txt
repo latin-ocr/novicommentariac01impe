@@ -1,0 +1,36 @@
+52 VARIAE DEMONSTRAT. GEOMETR.
+
+AS²÷BR²÷2ASBR1AL²÷RS²÷2AB . RS
+
+. Ponatur hic pro RS² e³us valor 2AR . BS fietqu·⁹
+A5²÷ER²÷2ASER1AB²÷2AB.RS-÷-2'AR.BS
+At per lemma praemissum est AB.RS-÷-AR.BS:
+AS.BR ideoque etiam 2AB.RS-÷-2AR.BS:2AS.
+BR , quo valore in illa aequalitate substituto orietur:
+
+AS²÷ER²÷2ASBR1AB²÷2AS.BR
+
+auferatur *utrinque pars communis 2AS.BR ac remanebit:
+AS²-÷-BR²:AB². Q. E. D.
+
+ξ. ς. Iu vulgus deinde nota est regula inueniendi
+aream trianguli ex datis eius tribus lateribus , quae ita se
+habet ‚ vt a semisumma laterum singula latera seorfim
+subtrahantur et solidum seu productum ex his tribus re-
+fiduis ortum per ipfiim semifiimmam multiplicetut , tum
+'vero ex isto produaefto radix quadrata extrahatur, quae
+exhibitura fit aream trianguli propositi. Analytice qui-
+dem haec regula facile demonstratur, ac demonstrationes
+ex analyfi concinnatae passim occurrunt , verum eae a mo-
+re geometrico non mediocriter diffident, vt non nifi a Ie-
+{toribus in Analyfi exercitatis intelligi poffint. Quocirca
+istius regulae hic demonstrationem pure geometricam tra-
+dam , in qua nullum analyseos vestigium percipiatur, Pe-
+tita est ea ex circulo triangulo inscripto⁷ cuius symtoma-
+ta ab Euclide sufficienter sunt exposita ς quibus autem ad
+demonstrationem formandam opus habeo, ea in tequea-
+tibus propositionibus complestar, quae viam ad memo-
+ratae regulae demonstrationem parabunt.
+
+Theorema
+

@@ -1,0 +1,39 @@
+VARIAE DEMONSTRAT. GEOMETR. 53
+
+’ Th-eorem‘a.
+ξ. 6. Are-1· cuiusque Trianguli ΑΒΕ aequatur re· Fig. 42
+&angulo ex semisumma laterum in radium circuli inscri-
+pti, seu area AABC est ;(AB-÷-AC-÷-BC)OP.
+Demonstratio.
+Ex centro circuli inscripti O in singula latera de«
+mittantur perpendicula OPOQ OR, quae erunt aequa⁶
+
+lia radio circuli inscripti. Ex Ο ducantur pariter ad an
+
+gulos rethe OA. ΟΒ. OC quibus triangulum propositum , .
+diuidetur in tria trizzmgult ΑΟΒ AOC, BOC, eandem ⁵
+altitudinem ΟΚ.. 0Q10P habentia , >et quorum bases
+sunt latera trianguli AB, AC ‚ BC. Hinc ista triangula
+iundtim sumta aequantur triangulo cuius basis est summa
+laterum AB÷AC÷ BC ‚ et altitudo radio circuli inscri-
+pti ΟΡ aequalis 2 cui cum proinde area ipfius trianguli
+propositi ΑΒΕ fit aequalis, haec aequabitur reetangulo ex
+semisumma laterum in radium circuli inscripti ΟΡ ‚ seu
+erit area AABC23(AB÷AC÷BC)OP. Q. E. D,
+
+Theorema.
+
+(5. 7. Si ex centro O circuli triangulo ΑΒΕ inscripti
+in singula latera perpendicula demittantur ΟΡ, OQ, OR
+his latera ita secabuntur , vt posita semisumma laterum
+;(AB-÷-AC÷BC):S , futurum sit:
+ARzAQzS-BC 3 BR-„ffiPffi-AC et CPZCst-AB„
+atque AR÷BP÷CQ28
+
+Demonstrati&
+
+Nam ob· perpendicula ΟΡ, Ο Q, O R inter se aequali&
+
+statim patet fore AQzAR3 BP:BR et CP1CQ vnde
+G 3 fixit
+

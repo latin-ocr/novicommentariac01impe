@@ -1,0 +1,34 @@
+VARIAE DEMONSTRAT GEOMETR⁴ 51
+
+T heorema Fermatii.
+
+§. 4. Si fiiper semicirculi AMB diametro ABfflgde'
+constituatur parallelogrammum rect-angulum ABFE, cuius
+*latitudo ΑΕ seu BF aequetur chordae quadrantis eiusdem
+circuli seu lateri quadrati inscripti ‚ atque ex punctis E
+et F ad quoduis peripheriae punctum M ducantur rectae
+EM , FM3 his diameter AB ita secabitur in punctis
+R et S, vt sit: AS²-÷-BR²:AB².
+
+Demonstratio.
+
+Ex p11116'co M per terminos diametri A et B pro-
+ducantur rectae MAP et ΜΒΩ donec basi EF pro-
+duCtae occurrant in punitis P et Q. Iam quia angulus
+AM B est rectus , erit P-Js-Q: ang. recto 3 at est etiam
+P—l—otzang. resto et Q-l—sszang. resto ‚ ob restas
+ΑΕ et BF ad EF normale53 vnde erit Ρῑῐὲ et Ω-Ξα,“
+ideoque triangula PEA et BF Ω inter se similia: ex
+quo habebitur PE : AE—-BF ι QF hincque PE . QF
+:AE BF1AE2 , et propterea 2PE . QF12AE2.
+At quia ΑΕ aequatur chordae quadrantis ‚ erit 2AE²::
+AB²1EF² , ita vt futurum fit 2PE. ΩΒ Ξ EF2.
+Quare cum hic recta ΡΩ ita in punc'tis E et F '
+secta habeatur , vt sit duplum rectangulum partium
+extremarum PE et QF aequale partis mediae EF
+quadrato·⁷ diameter vero A B in punctis R et S
+fimili modo sit sedta , sequitur fore quoque duplum re—
+&angulum partium extremarum AR et BS aequale qua-
+drato partis mediae RS , ieu erit 2AR . BszRSZ
+Iam cum sit AS÷ER1AB÷RS‚ erit quadratis sumtis:
+

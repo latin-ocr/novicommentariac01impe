@@ -1,0 +1,40 @@
+ει THEOREMATA
+
+contentos ‚ tentet , cum demonstratum fit omnes reliquos
+numeros primos huius somnae diuisores effe non poffe.
+
+T heorema 8.
+
+29. Summa duarum huiusmodi potestatum a2m—4-b2m
+quarum exponens est dignitas binarii alios diuisores non
+admittit , nisi qui contineantur in hac forma 2m÷¹n÷n
+
+Demonstrati&
+
+Quemadmodum demonstrauimus omnes diuisores for-
+mae assi-[1² in hac forma 4n-†—1 contineri, hincque
+vlterius diuisores omnes formae a⁴-{-b⁴ in 8n—l-1 et
+formae a'-}-b⁰ in 16 7241 contineri euicimus3 ita fi·
+mili modo‘ ostendi potest formam a¹⁶÷b¹⁶ nullos alios
+diuisores admittere nifi in formula 321241 contentos,
+Dehinc porro intelligemus formas a³² —†—b³²·, ιιω-ὲ-ὸὸ4
+etc. alios diuisores habere non pofl‘e , nisi qui in formu-
+lis 64n÷1 ‚ 128n—}—1 etc. includantur( Sicque in
+genere patebit formae a²m÷b2m alios non dari diuisores,
+uisi qui in formula 2⁷⁷²÷¹n—}-·1 contineantur. Q. E· D.
+
+Coroll. 1.
+
+30. Nullus ergo numerus primus, qui in hac
+tbrma 2⁷⁷³·*·'¹n-†-1 non includitur, vnquam effe potest
+diuisor vilius numeri in hac forma a2m—i—b2m contenti.
+
+Corolh ρ.
+
+31. Diuisores ergo huiusmodi numeri a2⁷⁷²—†—h²⁷²³
+inquisiturus inutiliter operam suam comsumeret , fi aliis
+numeris primis praeter eos, quas sonna ἰωὴ-ἠψπ sup-
+peditat , diuisionem tentare vellet.
+
+⁷ Scholion
+

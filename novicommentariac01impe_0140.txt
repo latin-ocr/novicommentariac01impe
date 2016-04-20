@@ -1,0 +1,39 @@
+,μ THEOREMATA
+
+m 2, 4, 6,10,12‚14,20‚22‚24‚26‚32etc.
+<mdc-137, 13,1953&3721T3‚61,67‚73‚79‚972etc·
+Oro . 3.
+
+58. Si ergo numeri cubici per hos numeros pri-
+mos 31114- 1 diuiduntur, sequentia refidua remanebunt:
+
+Diuisores Refidua
+7 1‚6
+13 1‚5·‚8,12
+19 1‚7,8,11,12‚18
+31 1,2‚4, 8,15‚16‚23,27‚29,30>
+37 1‚6‚&¹0‚1n14‚m½26‚wm29‚&½36
+etc„
+
+ 
+
+In his refiduis primo occurrunt omnes cubi diuisoribus
+minores, deinde fi quodpiam refiduum fuerit r pro diuiso-
+re 3772—4— 1 ‚ tum quoque aliud dabitur refiduum :sm
+ρὶ--Ῑ-ν. fi enim cubus Γ dederit residuum r , cubus
+(sm-›z-1—sf dabit refiduum —r seu 3m-†-1-r.
+
+Schohon.
+
+59. Notatu hic dignum est numerum refiduorum
+perpetuo effe zm, fi diuisor fuerit :3m÷ 1. Sem-
+per ergo dantur tres cubi, quorum radjces smt < am
+--37- 1 , ex quibus idem refiduum resultat. Scilicet hi
+tres cubi 13 , 2³ , 4³ per 7 diuifi idem dant refiduum
+z 1, et hi tres cubi 2³, 5³, et 63 per 13 diuifi idem dant rest
+duum 8. Praeterea hic notari conuenit , fi pro q alii
+valores praeter hos affignatos capiantur ‚ tum ατη-Ι non
+effe pet 3m÷ 1 diuifibssew quod etfi venun effe facile de-
+
+pte·-
+

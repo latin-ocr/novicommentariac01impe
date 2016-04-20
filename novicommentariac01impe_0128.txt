@@ -1,0 +1,42 @@
+30 THEOREMATA
+Coroll. 1⁷.
+
+22. Cum vornnes numeri impares in vna harum
+quatuor fonnarum contineantur: 872ss 1 et 8nss 3:
+’ praeter numeros in forma prima 8714·- 1 contentos nul-
+lus alius poterit effe diuiior summae duorum biquadrato-
+
+rum. Coroll. ρ.
+
+23. Omnes ergo diuisores primi summae duorum
+biquadxatorum inter se primorum erunt vel 2 vel in hac
+
+serie contenti. 17, 41 , 73, 89, 97, 113, 137, 193, etc.
+quae complectitur omnes numeros primos fonnae 8²24- 1.
+
+Coroll. 3.
+
+24. Si quis ergo numerus puta N fuerit summa
+duorum biquadratorum , tum is vel erit primus , vel'ali-
+
+os non habebit diuisores , nisi qui in forma 872-1-1 con-
+
+'tineantur3 vnde inuestigatio diuisorum mirum in mor=
+dum contrahitur.
+
+Coroll. 4.
+
+25⁶. Nullus igitur numerus ‚ qui diuisorem habet
+non in forma 8n÷ 1 contentum, erit summa duorum bi-
+
+quadratorum3 nifi forte habeat quatuor diuisores aequales,
+qui autem in consideratione biquadratorum reiici solent.
+
+Theorema 7.
+
+26. Omnes diuisores huiusmodi numerorum a⁸-}-b'
+sl quidem q et lg sunt numeri inter se primi, sunt vel
+2 vel in hac forma 16 71-4- 1 continentur.
+
+Demon ι
+

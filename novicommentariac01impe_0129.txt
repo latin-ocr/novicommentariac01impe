@@ -1,0 +1,38 @@
+CIRC A DIVISORES NVMERORVM 3 1
+
+Demonstratio.
+
+Quia a' et b· fimul fimt biquadrata, eorum sum-
+ma α’ —4- [φ’ alios non admittet diuisores ‚ nisl qui
+in fomm 87141 contineantur. At numeri in hac for·-
+ma 8n-†—1 contenti fimt vel 16n-{—1 vel 1672-7.
+Sjt 16 n—7 nrmerus pr³mus ‚ ac per erm diuidi non po-
+terit forma a¹⁶⁷²··³-{-b¹⁶⁷¹·‘⁸ (13). seu a⁸(²⁷¹‘¹)-†-b⁸(²⁷²-¹)‚
+neque propterea vllus eius faetor. Vervm ob αντ-ι nu-
+merum imparem haec forma diuisorcm habet ιζ’-μὴ’,
+quae ergo per nullum numerum przssmum 16 n—7 erit
+diuifibilis, ac propterea alios diuisores primos habere ne-
+quit , nifi qui in forma 16n—5— 1 contineantur. Ex mul-
+tiplicatione autem duorum pluriumue huiusmodi numero-
+rum 16n÷1 ‚ perpetuo productum eiusdem formae na-
+scitur, neque vnqunm numerus formae 16 n—-7 resultare
+potest. Vnde cum nullus numerus formae 16 n-—7 di-
+visor ipfius aus—b· existere possm, necesse est vt orn-
+nes huius formae a⁸-}—b³ diuisores, s1 quos habet, fiue
+smt primi fiue cc-rnpofiti , perpetuo in hac formula 16
+n—÷-1 contineantur. Q. E. D.
+
+Coroll. 1.
+
+27. Nullus igitur numerus , qui in hac forma 16
+n-}-1 non includitur, vnquam effe potest diuisor svm-
+mae duarum potestatum ostaui gradus inter se primarum.
+
+Coroll. 2.
+
+28 Si quis ergo voluerit numeri cuiuspiam huius
+formae cz'-}—b⁸ diuisores inuestigare ‚ is diuifionem per
+nullos alios numeros primos nifi in hac forma 16n÷ 1
+
+cono
+

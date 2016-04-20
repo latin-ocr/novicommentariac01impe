@@ -1,0 +1,36 @@
+α 8 ’ ΤΗ EOREMATA
+
+tur in hac forma ,μὶ-ι- 1. Diuisores ergo primi stim
+mae duorum quadratomm continebuntur in hac serie:
+
+2, 5, 13>17‚.29‘‚ 37, 41, 53, 61, 73, 89, 97, etc.
+· Scholion.
+
+20. Quod numerus huius formae 4n—1 nunquam
+poffit effe summa duorum quadratorum, facile inteiligi-
+tur. Numeri enim quadrati vel sunt pares vel impares,
+‚illi in hac forma 4a, hi vero in hac 4b—4— 1 continen-
+tur. Quare vt summa duorum quadratorum fit numerus
+impar, alterum par alterum impar effe oportet, hinc ori-
+turforma 4a-†—4b-†—1 seu 4n-†-1 ‚ ideoque nullus
+numerus huius formae 4n— 1 summa duorum quadratorum
+effe potest. Quod vero ,summa duorum quadratorum. ne
+diuisorem ι quidem formae), 472— 1 admittat , ab omnibus
+scriptoribus methodi Diophanteae semper est affirmatum:
+nemo autem vnquam, quantum mihi constit, id demon-
+strauit, ,‚ excepto F ermatio ‚ qui autem suam demonstra
+tionem nunquam publicauit, ita vt mihi quidem videar
+primus h mc veritatem publice demonstrasse· nullum nu-
+merum vel huius formae 4n 1 vel per numerum eius-
+dem foimae diuifibilem vnquam effe poffe summam duo-
+rum quadratOrum. Hinc ergo sequitur omnem summam
+vduorum quadratorum inter fia primorum vel effe nume-
+rum primum vel bin mo excepto alios diuisores non
+habere, nisi qui in forma 4n—†-1 contineantur.
+
+Theorema 6.
+
+, 21. Omnes diuisores summae duorum biquadrato-
+rum inter se primorum sunt vel 2 , vel numeri huius
+formae 87²4- 1. - Demon-
+

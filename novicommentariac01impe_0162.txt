@@ -1,0 +1,39 @@
+’ψει ’νΑιιιΑΕ DEMONSTRAz GEOMETR.
+
+barum diagonaliiun semper minorem effe summa quadra-'
+torum quatuor laterum, atque adeo defieecum facillime
+
+poffe affiguari
+T heoiema
+
+Εἰς. ‘12' ς. 26. Proposito quocunque trapezio ABCD cum
+suis ἀ13ςοιιιὶίῑιιιε AC, BD, fi circa bina latera AB,
+BC compleatur parallelogrammum ABC E quod cum
+trapezio tria puriora Α, Β, C habebit cummunia,iunga1i-
+turque reliqua punnsta diuersa D et E reeca DE, eiit
+summa quadratorum laterum trapezii ΑΒ2 -l-BC² -l-CD²
+-1-DA² maior quam summa quadratorum diagonalium
+AC· ÷BD² , atque exceffus aequabitur quadrato lineae
+
+· DE: seu erit AB² -i-BC2 -4-CD‘ —l-DA ..'-AC² -}-B
+D² -1-DE2.
+DemonstratiO.
+
+Ducatur in parallelogrammo ABCE altera diago-
+nalis BE quae ipfi cum ·trapezio non est communis;
+tum ponatur CF ipsi AD, ''e‘t BF ipsi ED parallela
+et aequalia , et quia BC: AE, istae lineae concurrent
+in punEio F, vt triangulum C1’3F fimile fit et aequale
+triangulo AED. Quo fausto iungantur lineae AF, DF
+et Ε F. Hinc manifestum est soie 'tam ADCF quam
+BD EF parallelogrammum, atque diagonales illius effe
+AC et DF, huius uero BE’ et DF· v'ade per proprietatem
+
+parallelogrammorum notam erit
+ex ADCF .2AD²-÷-2CD² :AC ÷DF²
+
+exBDEF. ..-BD²-÷-2DE² :ffBE-i-DF
+
+vnde ex. Vtraque aequatione valorem DF definiendo ha·
+beo
+

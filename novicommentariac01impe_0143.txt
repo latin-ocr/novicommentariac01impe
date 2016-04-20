@@ -1,0 +1,39 @@
+CIRCA DIVISORES NVMERORVM 4 5
+
+Demonstratio.
+
+Cum ponatur sprmula f⁷²—-ag⁷2 diuifibilis per mn -1- 1,
+erit quoque haec formula fmn—amgmn, quippe quae per illam
+diuidi potest , diuifibilis per mn-ls- 1. At cum mn-l- 1 fit
+numerus primus, per eum diuifibilis erit haec forma fmn-gmn3
+vnde quoque differentiagmnfflm- 1 ) seu ipsa formula am— 1
+per mn-÷— 1 erit diuifibssis ‚ propterea quod g per ηιη-ὶ- 1
+diuifionem admittere nequeat ‚ nifi fimul f per eundem
+
+effet diuisxbile, qui casus in nostro ratiocinio perpetuo
+excluditursQ. E. D.
+
+Coroll. 1.
+
+6 5. Si ergo ατη-1 per 77zn÷1 non fuerit diui-
+sibile, tum quoque nulli dantur numeri f et g vt haec
+formula fn—-agn per mn-ff— 1 fiat diuifibilis.
+
+Coroll. ρ.
+
+66. Si superioris propofitionis conuersa demonstra=
+ri posset, tum quoque emetum foret: quoties jn-—a per
+mn-4—1 diuidi nequeat, tum ne hanc quidem formulam
+fn-agn diuifionem per vnn—&1 admittere posse, fimul
+vero etiam pateret , fi sn—agn fit diuifibile per mn—†—1,
+tum quoque dari huiusmodi formulam 1⁷³—a ‚ quae fit
+per mn-‹l-I diuifibilis.
+
+Theorema 1 5.
+
+67. Si huiusmodi formula asu-bg* fiterit diuisi
+bilis per numerum primum 77172—4-1 ‚ tum quoque haec
+formula a’n-bm erit per mn-1-1 diuifibilis.
+
+F 3 Demon.⁴²
+

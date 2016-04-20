@@ -1,0 +1,37 @@
+ἐξ, ’ THEOREMATA
+
+etiam afflq-i—boflq erit diuisor formae affl-i—bffl. Quo·
+circa am÷bm numerus primus effe nequit nisi m fit
+dignitas binarii. Hoc igitur casu, fi am÷bm‚ nGn fi:-
+erit numerus primus ‚ alios diuisores habere nequit , nisi
+qui formula 2mn—-l— 1 contineantur. Contra autem fi
+differentia duarum potestatum eiusdem gradus proponatur
+am-bm , ea semper diuisorem habet a-b; praeterea ve-
+ro fi exponens m diuisorem habeat p, erit quoque aP— b?
+diuisor formae a m—bm. Hinc si m fit numerus primus
+forma am— bm praeter a—b alium diuisorem algebraice as-
+signabilem non habebit, quare si am, b⁷¹⁸ fuerit numerus
+primus, neceffe est vt m fit numerus primus et a— —b
+-- ...1. Interim tamen ne his quidem casibus forma a m,bm
+semper est numerus primus3 sed quoties εφη-ξ- 1 est nume-
+rus primus , per eum erit diuifibilis. Praeterea vero etiam
+alios diuisores habere potest , quos hic sum inuestigaturuS.
+
+Theorema 9.
+
+34. Si differentia potestatum am-bm fuerit diuisi-
+bilis per numerum primum 2n-†- 1 , atque p sit maxi-
+mus communis diuisor numerorum m et 2 n stum quoque
+αΡ-ὸΡ erit diuisibilis per 2n-÷- 1.
+
+DemonstratiO.
+
+Quia 2n-1— 1 est numerus primus , erit a²”—b²’⁸
+diuifibilis per 2n-†—1 , et cum per hypothesin am—bm
+sit quoque diuifibilis per 2ηῆ- 1. Sit 2nzotm÷q,
+seu q fit residuum in diuisione ipsius 2n per m remanens3
+et cum uam-bam fit quoque per ειη-ΡΙ diuifibilis,
+
+multiplicetur haec sonna per aq ‚ erit ααπμΗ - aqbw'* per
+2n
+

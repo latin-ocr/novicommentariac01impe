@@ -1,0 +1,36 @@
+rig. x.
+
+'4 DE SVPERFICIE CONOR. SCALENOR
+
+in arcum lineae curuae , cuius constructionem exposuerat,
+cum iste arcus antea quantitate quapiam algebraica minui
+debuisset. Quamobrem operam meam non inutiliter mi-
+hi equidem collocaffe videor , fi primo superficiem coni
+scaleni ope rectificationis lineae algebraicae ordinis fiexti
+exhibuero , tum vero explanationem superficiei conoidalis
+cuiuscunque per lineam curuam algebraicam absoluero ‚
+simulque laplum summi Leibnizii emendauero.
+
+§. 2. Sit circulus AM B bafis coni scaleni, cuius ver—
+tex in sublimi positus fit V. vnde ad planum basis demittatur
+perpendiculum VD3 et ex puncto D per' centrum basis C a-
+gatur recta DA C B. Superficies igitur haec conica generatur,
+dum linea resta perpetuo per pumstum V transiens circa pe-
+ripheriam circuli ΑΜΒ circumducitur, huiusque superficiei
+portio arcui AM respondens includetur arcu AM et binis re-
+Ctis ex punctis A et M‘ad verticem V dustis. Huiusmodi
+portioni gibbae figuram planam aequalem inueniri opor-
+tet. Ponatur radius bafis AC113C1a. longitudo axis
+Vsz perpendiculum VDzb , et interuallum Cch,
+ita vt fit ffzbb—l—cc. Hinc erit latus coni minimum
+VAzV(bb—1-cc—2ac-}—aa) et latus maximum VB
+:V(bb-{«0·c—}-2ac-†—aa). Sumto nunc arcu quo—
+cunque AM, ponatur angulus ΛΕΜ-ττι, erit arcus A
+Mzau ·‚ eiusque elementum Mmzadu. Ducatur iu
+puncto M tangens MQ, et ex D in eam ducatur per-
+pendicularis DQ, erit resta VQ normalis in tangentem
+MQ. Quare fi duciae concipiantur redtae VM et Vm,
+erit area trianguli Mszng. VQ3 quae areola erit
+differenti-ale portionis superficiei conicae AVM ‚ quam
+quaerimus. 5- 3
+
